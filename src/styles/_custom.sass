@@ -17,3 +17,33 @@
 
   100%
     transform: translateY(0px)
+
+.bloque-texto-g img
+  width: initial
+  height: 90%
+  margin: 0 auto
+  padding-top: 30px
+
+.tit-tercer2
+  position: relative  
+  width: fit-content
+  &:after
+    content: ''
+    display: block
+    position: absolute
+    width: 100%
+    height: 65%
+    border: 3px solid #69CCD1
+    border-radius: 50px
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      height: 100%
+  img 
+    z-index: 3  
+    position: relative
+  h3   
+    z-index: 3  
+    position: relative
+
+.lista-ul--color.fa-ul.color-adicional-1 i 
+  color: #FFC03C
