@@ -1,23 +1,79 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 17%
+    right: 20%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 2.9s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 77%
+    right: 72%
+  &-3
+    animation: float1 3.4s ease-in-out infinite alternate
+    position: absolute
+    top: 80%
+    right: 20%  
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
 
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem        
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+
+.bgc-1
+  background-image: url("../assets/curso/temas/t2/bgc1.png")
+  background-position: center top
+  background-size: 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover   
+.bgc-2
+  background-image: url("../assets/curso/temas/t2/bgc2.png")
+  background-position: center bottom
+  background-size: 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover  
+.bgi-1
+  background-image: url("../assets/curso/temas/t2/bg1.png")
+  background-position: center
+  background-size: 100%
+  background-repeat: no-repeat
+  @media screen and (max-width: 992px)
+    background-size: cover 
+.bg-1
+  background-color: #FFF4CC !important  
+.bg-2
+  background-color: #F7FDFD
+.bg-3
+  background-color: #D1F0F1
+.bg-4
+  background-color: #F6F6F6
+.bg-5
+  background-color: #FFF  
+  
 .bloque-texto-g img
   width: initial
   height: 90%
@@ -44,6 +100,69 @@
   h3   
     z-index: 3  
     position: relative
+.text-dest
+  color: #EA3A70
 
 .lista-ul--color.fa-ul.color-adicional-1 i 
   color: #FFC03C
+
+.tarjeta.bg-acord  
+  background-color: #FFF
+  border-bottom: 1px solid #E8E8E8
+  border-radius: 0px
+  &.acordion__activo 
+    background-color: #F0FAFB !important
+    border-radius: 20px
+    border-bottom: 0px
+    .acordion__accion__btn--b 
+      border: 1px solid #111e61
+      background-color: transparent
+      i
+        color: #12263F    
+  .acordion__accion__btn--b 
+    border: 1px solid #EA3A70
+    background-color: #EA3A70
+    i
+      color: #FFF
+
+.tarj-hover .tarjeta--boton
+  background-color: #FFF4CC
+  &:hover
+    background-color: #D1F0F1
+
+.tabs-b
+  border-bottom: 0px  
+  border-bottom-left-radius: 40px
+  border-bottom-right-radius: 40px
+  .bg-2
+    border-bottom-left-radius: 40px
+    border-bottom-right-radius: 40px
+  .tabs-b__header .tabs-b__tab
+    background-color: #FFFAE6
+    border-right: 2px solid #FFDA57
+    border-bottom: 0px
+    &.tabs-b__tab--active  
+      border-top: 7px solid #FFDA57 !important
+      background-color: #FFF
+      .tabs-b__tab__icon
+        filter: hue-rotate(0deg)
+        opacity: 1
+    &:last-child
+      border-right: none
+    .tabs-b__tab__icon  
+      filter: hue-rotate(231deg)
+      opacity: 0.5
+
+.bgi-1 
+  .slyder-a__bullets  
+    display: none
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: #EA3A70
+    border-color: #EA3A70
+    opacity: 1
+
+.tit-tarjeta
+  background-color: #FCFF9B
+  border-radius: 50px
+  width: 
+  padding: 5px

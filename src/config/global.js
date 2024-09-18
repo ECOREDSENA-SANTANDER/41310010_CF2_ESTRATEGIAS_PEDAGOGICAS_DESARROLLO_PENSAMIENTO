@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Técnicas y estrategias de formación',
     descripcionCurso:
       'Las técnicas de formación son fundamentales en la educación, utilizando estrategias específicas para guiar el aprendizaje. Las técnicas de formación se enfocan en métodos concretos, mientras que las estrategias educativas combinan diversas técnicas para lograr un aprendizaje eficaz y adaptado a los estudiantes. Ambos conceptos, contribuyen a desarrollar habilidades, conocimientos y actitudes, fomentando una educación integral y efectiva.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
@@ -15,7 +15,7 @@ export default {
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
+        clases: ['banner-principal-decorativo-3'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
@@ -99,11 +99,11 @@ export default {
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
       },
-      {
+      /*{
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },
+      },*/
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
@@ -198,7 +198,7 @@ export default {
         'Técnica en la que los estudiantes asumen roles específicos para explorar diferentes perspectivas y soluciones a problemas, desarrollando habilidades como la empatía y la resolución de conflictos.',
     },
     {
-      termino: ' Lluvia de ideas <em>(brainstorming)</em>',
+      termino: 'Lluvia de ideas <em>(brainstorming)</em>',
       significado:
         'Técnica creativa que consiste en generar un gran número de ideas en un grupo, sin críticas, para fomentar la creatividad y encontrar soluciones innovadoras.',
     },
@@ -249,9 +249,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Lilian Clarena Franco López',
-          cargo: 'Experta temática',
-          centro: 'Centro Agroindustrial - Regional Quindío',
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -259,24 +259,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Andrea Paola Botello De la rosa',
-          cargo: 'Desarrollador Fullstack',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrolladora <em>Fullstack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -284,24 +279,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
