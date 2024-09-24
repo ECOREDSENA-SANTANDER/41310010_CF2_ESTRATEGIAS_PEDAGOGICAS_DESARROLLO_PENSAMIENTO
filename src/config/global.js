@@ -235,12 +235,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -249,8 +249,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Lilian Clarena Franco López',
+          cargo: 'Experta temática',
+          centro: 'Regional Quindío - Centro Agroindustrial',
+        },
+        {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluador instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -260,17 +265,17 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>Fullstack</em>',
+          cargo: 'Desarrolladora <em>fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -280,17 +285,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

@@ -86,7 +86,6 @@
             span Mentefacto
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig2.svg', alt='El esquema presenta un ejemplo de mentefacto con: una clasificación de los cambios químicos y las reacciones nucleares, destacando que las reacciones químicas involucran a los electrones de valencia, con baja energía, y que los elementos conservan su identidad durante el proceso. Además, la velocidad de las reacciones depende de factores externos. Dentro de las reacciones químicas, se distinguen cuatro tipos principales: descomposición, síntesis, sustitución y doble sustitución, cada uno con características particulares que definen los procesos de transformación de las sustancias involucradas. ')
-            figcaption Fuente: SENA
       .row(titulo="Red causal")
         .col-lg-6
           p.mb-0 Es una técnica narrativa que articula la estructura de una historia mediante una red interconectada de causas y efectos, configurando una representación episódica compleja.
@@ -99,7 +98,6 @@
             span  Red o maraña casual
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig3.svg', alt='El diagrama representa un ejemplo de una red causal que describe los factores de riesgo que pueden conducir a un infarto de miocardio. Entre los factores se incluyen hereditarios, sociales y conductuales, como la presión social, el tabaquismo, el sedentarismo, el consumo excesivo de grasas, sal y calorías, la hipertensión y la obesidad. Además, se consideran afecciones como la arteriosclerosis coronaria, la diabetes y la hiperlipidemia, que junto con factores psicológicos como el estrés o la personalidad tipo A, aumentan la probabilidad de sufrir un infarto al generar oclusión coronaria, trombosis, y problemas circulatorios.')
-            figcaption Fuente: SENA
       .row(titulo="Diagrama de Venn")
         .col-lg-6
           p.mb-4 El Diagrama de Venn es una herramienta gráfica ampliamente utilizada en matemáticas, pero también aplicada en diversas disciplinas para ilustrar las relaciones entre diferentes conjuntos. Este diagrama, creado por el matemático británico John Venn, se diseñó para visualizar de manera clara y concisa la intersección y las diferencias entre varios grupos de elementos. Al representar conjuntos como elipses que se superponen parcialmente, el Diagrama facilita la identificación de elementos comunes y exclusivos, lo que lo convierte en una herramienta poderosa para el análisis lógico y la teoría de conjuntos. 
@@ -109,8 +107,7 @@
             h5 Figura 4. 
             span  Ejemplo diagrama de Venn
           figure
-            img.mb-2(src='@/assets/curso/temas/t1/fig4.svg', alt='La imagen presenta un diagrama de Venn compuesto por tres elementos: espíritu, cuerpo y mente. Cada uno de estos aspectos está relacionado con conceptos importantes para el bienestar. El cuerpo se vincula con la autorrealización, el espíritu con un estilo de vida sano, y la mente con el pensamiento positivo. En la intersección de los tres elementos, se destaca el equilibrio entre estos aspectos como clave para una vida saludable y plena.')
-            figcaption Fuente: SENA
+            img.mb-2(src='@/assets/curso/temas/t1/fig4.svg', alt=' La imagen es un diagrama de Venn que relaciona tres conceptos fundamentales: cuerpo, mente y espíritu. Cada uno está representado por un círculo, y en las áreas donde se superponen se incluyen términos asociados. La intersección entre cuerpo y espíritu se vincula con la autorrealización, mientras que entre mente y espíritu se asocia con un estilo de vida sano. En el punto donde convergen los tres conceptos, el pensamiento positivo es destacado como un elemento clave. El diagrama subraya la importancia de la interrelación entre estos tres aspectos para lograr un bienestar integral.')
       .row(titulo="Organizador cíclico")
         .col-lg-6
           p Es una herramienta cognitiva que facilita la organización y representación de información de manera clara y concisa, especialmente útil para visualizar procesos o secuencias que se repiten de forma continua. Este esquema mental se caracteriza por su capacidad para ilustrar ciclos recurrentes, en los cuales cada etapa del proceso lleva invariablemente de regreso al punto de partida. Al ser un método simplificado y directo, el organizador cíclico es ideal para describir fenómenos o eventos que siguen una secuencia fija, ayudando a los usuarios a comprender y retener información de manera eficiente. Su aplicación es común en la enseñanza de conceptos que involucran patrones repetitivos, como ciclos biológicos, procesos industriales o sistemas económicos, donde la representación visual del ciclo facilita el entendimiento de la continuidad y la repetición inherentes a estos procesos.
@@ -120,7 +117,6 @@
             span  Organizador cíclico
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig5.svg', alt='La imagen presenta un ciclo que describe el proceso científico, comenzando con un cuerpo de conocimientos disponibles y un problema. Este lleva a la formulación de hipótesis, que es el siguiente paso en el ciclo. Luego, la hipótesis se verifica, lo que conduce a un nuevo cuerpo de conocimientos o a un nuevo problema. Este proceso es continuo y dinámico, facilitando la generación de nuevo conocimiento y la resolución de problemas a través de la verificación y ajuste de hipótesis.')
-            figcaption Fuente: SENA
       .row(titulo="Uve heurística")
         .col-lg-6
           p Es una técnica educativa diseñada para guiar a los estudiantes en el desarrollo de habilidades de pensamiento crítico y aprendizaje autónomo. Originada en la década de 1970, esta herramienta fue concebida con el propósito de facilitar tanto a estudiantes como a docentes la realización de investigaciones científicas en entornos de laboratorio, proporcionando un marco estructurado para la construcción del conocimiento a partir de la experiencia directa. La Uve Heurística se organiza en torno a seis componentes clave: una pregunta central, palabras clave, procedimientos, observaciones, resultados y conclusiones. Cada elemento desempeña un papel crucial en el proceso de investigación, permitiendo a los estudiantes no solo seguir un método riguroso, sino también reflexionar sobre cómo se genera el conocimiento. La pregunta central, en particular, debe estar orientada hacia un concepto fundamental que guíe todo el proceso investigativo. A través de esta técnica, los educandos aprenden a organizar sus pensamientos de manera lógica y a conectar la teoría con la práctica, lo que les ayuda a internalizar y aplicar los conceptos aprendidos de manera más efectiva.
@@ -130,7 +126,6 @@
             span Uve heurística
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig6.svg', alt='La imagen presenta un esquema en forma de V que aborda el proceso de resolución de problemas, dividiéndolo en tres fases: pensar, pregunta central y hacer. En la fase de pensar, se plantea cómo estudiar el problema, qué teorías y conceptos son útiles para entenderlo. La pregunta central está enfocada en definir qué se desea averiguar o conocer. Finalmente, en la fase de hacer, se reflexiona sobre lo aprendido, se formulan juicios que explican el conocimiento obtenido y se organizan los pasos necesarios para comprender el problema en su totalidad.')
-            figcaption Fuente: SENA
     
     .row.align-items-center.tit-tercer1.mb-4(data-aos='fade-right')
       .col-md-auto.col-2

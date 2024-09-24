@@ -52,32 +52,29 @@
         h3.mb-0.pe-4 Clasificación de estrategias didácticas
     
     p.mb-4 Existen diversas clasificaciones para las estrategias didácticas, pero todas coinciden en tres parámetros clave: 
-      span.text-dest.fw-bold métodos, procedimientos y técnicas.
+      span.fw-bold métodos, procedimientos y técnicas.
 
     TabsB.color-primario.mb-5(data-aos='fade-down')
       .bg-2.p-4.py-md-5(titulo="Métodos" :icono="require('@/assets/curso/temas/t2/tab1.svg')")
         .row.justify-content-center
           .col-lg-6
-            h4 Métodos
-            p Son enfoques o caminos estructurados para alcanzar un objetivo de aprendizaje específico. En el contexto educativo, un método se refiere a la manera de guiar el pensamiento y las acciones del estudiante hacia la consecución de una meta previamente establecida. Los métodos se basan en principios pedagógicos y están orientados a facilitar la comprensión y adquisición de conocimientos.
+            p Los métodos son enfoques o caminos estructurados para alcanzar un objetivo de aprendizaje específico. En el contexto educativo, un método se refiere a la manera de guiar el pensamiento y las acciones del estudiante hacia la consecución de una meta previamente establecida. Los métodos se basan en principios pedagógicos y están orientados a facilitar la comprensión y adquisición de conocimientos.
             p Ejemplos: algunos ejemplos de métodos son la enseñanza activa, el método clínico, el método Montessori, el método inductivo, el método deductivo, y el aprendizaje basado en problemas.
           .col-lg-4
             img(src='@/assets/curso/temas/t2/img3.png', alt='')
       .bg-2.p-4.py-md-5(titulo="Procedimientos" :icono="require('@/assets/curso/temas/t2/tab2.svg')")
         .row.justify-content-center
           .col-lg-6
-            h4 Procedimientos
-            p.mb-4 Son secuencias lógicas y organizadas de acciones que se siguen para lograr un fin específico dentro del proceso de enseñanza-aprendizaje. Los procedimientos pueden ser tanto algoritmos fijos (donde el resultado es predecible y seguro) como heurísticos (donde las acciones pueden variar y los resultados no son siempre predecibles).
+            p.mb-4 Los procedimientos son secuencias lógicas y organizadas de acciones que se siguen para lograr un fin específico dentro del proceso de enseñanza-aprendizaje. Los procedimientos pueden ser tanto algoritmos fijos (donde el resultado es predecible y seguro) como heurísticos (donde las acciones pueden variar y los resultados no son siempre predecibles).
             p #[b Tipos de Procedimientos:]
             p Procedimientos algorítmicos: son aquellos en los que las acciones están claramente definidas y probadas, lo que asegura un resultado previsible y seguro.
             p Procedimientos heurísticos: son aquellos que involucran un grado de variabilidad y no garantizan un resultado seguro, como la observación e intuición.
           .col-lg-4
             img(src='@/assets/curso/temas/t2/img4.png', alt='')
-      .bg-2.p-4.py-md-5(titulo="Métodos" :icono="require('@/assets/curso/temas/t2/tab3.svg')")
+      .bg-2.p-4.py-md-5(titulo="Técnicas" :icono="require('@/assets/curso/temas/t2/tab3.svg')")
         .row.justify-content-center
           .col-lg-6
-            h4 Técnicas
-            p Son herramientas o métodos específicos empleados para ejecutar los procedimientos y llevar a cabo los métodos. Las técnicas se refieren a las acciones concretas que el docente y los estudiantes realizan durante el proceso de enseñanza-aprendizaje. Son las prácticas que permiten implementar los métodos y procedimientos de manera efectiva en el aula.
+            p Las técnicas son herramientas o métodos específicos empleados para ejecutar los procedimientos y llevar a cabo los métodos. Las técnicas se refieren a las acciones concretas que el docente y los estudiantes realizan durante el proceso de enseñanza-aprendizaje. Son las prácticas que permiten implementar los métodos y procedimientos de manera efectiva en el aula.
             p Ejemplos: Ejemplos de técnicas incluyen el uso de mapas conceptuales, discusiones en grupo, simulaciones, resolución de problemas, y trabajo en equipo.
           .col-lg-4
             img(src='@/assets/curso/temas/t2/img5.png', alt='')
@@ -98,7 +95,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/t2/slyder1.png', alt='')
-        p.text-center La estrategia debe contribuir al incremento del rendimiento del estudiante en las tareas previstas, requiriendo un esfuerzo y tiempo razonables.
+        p.text-center La estrategia debe contribuir al incremento del rendimiento del estudiante en las tareas previstas, requiriendo un esfuerzo y tiempo razonable.
       .tarjeta.bg-3.p-4
         h4.text-center.mb-4.tit-tarjeta Instrucción clara y aplicada
         .row.justify-content-center.mb-3
@@ -147,13 +144,13 @@
         img(src='@/assets/curso/temas/t2/img2.png', alt='')
       .col-lg-9
         p.mb-4 Las estrategias pedagógicas en la enseñanza-aprendizaje tienen como objetivo 
-          span.text-dest.fw-bold  elevar el nivel académico de los estudiantes y potenciar sus competencias, adaptándolas al contexto y promoviendo su desarrollo como investigadores. 
+          span.fw-bold  elevar el nivel académico de los estudiantes y potenciar sus competencias, adaptándolas al contexto y promoviendo su desarrollo como investigadores. 
           | Estas estrategias representan un nuevo paradigma educativo, en respuesta a una generación en constante cambio y a una revolución conceptual en el sistema educativo, cuyo propósito es proporcionar conocimientos cognitivos de manera integral.
         .cajon.color-primario.bg-1.p-4
           p.mb-0 En este contexto, las estrategias pedagógicas se implementan como herramientas esenciales para informar, retroalimentar, enseñar, orientar y estructurar el desarrollo cognitivo, afectivo y expresivo de los estudiantes, formando así individuos íntegros para la sociedad. Según Medina (2003), citado en Medina y Salvador (2009), las estrategias pedagógicas bajo un modelo alternativo promueven la integración y aceptación dentro del proceso educativo.
     
     p Este paradigma se enmarca en una visión reflexiva y colaborativa, que reconoce la diversidad sociopolítica y plurilingüe, y la necesidad de desarrollar valores emergentes. Se enfrenta a la incertidumbre y los retos que la educación intercultural implica, superando posibles marginaciones culturales y personales. Históricamente, el sistema educativo dirigía a los estudiantes con necesidades educativas especiales a instituciones separadas. Sin embargo, 
-      span.text-dest.fw-bold el enfoque actual promueve la integración, ofreciendo oportunidades a todos los estudiantes, 
+      span.fw-bold el enfoque actual promueve la integración, ofreciendo oportunidades a todos los estudiantes, 
       | quienes deben adaptarse al sistema educativo vigente.
     
 
@@ -162,7 +159,7 @@
       h2 2.3  Técnicas pedagógicas para la formación
     
     p.mb-4 Las técnicas pedagógicas para la formación se refieren a métodos y estrategias utilizadas por educadores para facilitar el aprendizaje y el desarrollo de habilidades en los estudiantes. Estas técnicas incluyen 
-      span.text-dest.fw-bold la enseñanza directa, el aprendizaje colaborativo, el uso de tecnologías educativas, estudios de casos, debates, y actividades prácticas. 
+      span.fw-bold la enseñanza directa, el aprendizaje colaborativo, el uso de tecnologías educativas, estudios de casos, debates, y actividades prácticas. 
       | Cada técnica se adapta a los objetivos específicos de la formación, buscando no solo transmitir conocimientos, sino también fomentar el pensamiento crítico, la resolución de problemas y la aplicación práctica de los conceptos aprendidos.
 
     .row.bgc-1.align-items-center.py-4.pb-lg-0.mb-5
@@ -175,8 +172,7 @@
                 h5 Figura 7. 
                 span Técnicas pedagógicas para la formación
               figure
-                img.mb-3(src='@/assets/curso/temas/t2/img6.svg', alt='')
-                figcaption Fuente: SENA
+                img.mb-3(src='@/assets/curso/temas/t2/img6.svg', alt='El gráfico ilustra diversas técnicas pedagógicas que facilitan el proceso de formación. Estas incluyen el aprendizaje basado en preguntas, la simulación, el uso de proyectos y el método Phillips 6/6. Además, destacan herramientas como el estudio de casos, la lluvia de ideas, la exposición, el juego de roles y el uso de preguntas para promover la interacción y el análisis crítico en el aprendizaje. Cada una de estas técnicas está diseñada para fomentar la participación activa y el desarrollo de habilidades prácticas y cognitivas.')
           
           .col-lg-12(data-aos='fade-down')
             .cajon.color-primario.bg-1.p-4
