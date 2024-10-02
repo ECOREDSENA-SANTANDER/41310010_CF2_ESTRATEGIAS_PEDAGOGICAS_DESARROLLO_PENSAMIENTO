@@ -99,11 +99,11 @@ export default {
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
       },
-      /*{
+      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },*/
+      },
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
@@ -225,8 +225,28 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Comenius, J. A. (1986). Didáctica magna (Vol. 133). Ediciones Akal.',
+    },
+    {
+      referencia:
+        'Novak, J. D., Gowin, D. B., & Otero, J. (1988). Aprendiendo a aprender.',
+    },
+    {
+      referencia:
+        'Claxton, G. (2005). Aprendiendo a aprender: objetivo clave en el currículum del siglo XXI.',
+    },
+    {
+      referencia:
+        'Páez, D. L. (2012). El modelo pedagógico de la formación profesional integral en el enfoque para el desarrollo de competencias y el aprendizaje por proyectos. SENA.',
+    },
+    {
+      referencia:
+        'Torres, C. (2002). El juego como estrategia de aprendizaje en el aula. CDCHT.',
+    },
+    {
+      referencia:
+        'Gimeno, J. (1988). El curriculum: Una reflexión sobre la práctica. Madrid: Ediciones Morata.',
     },
   ],
   creditos: [
@@ -255,7 +275,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -270,7 +290,7 @@ export default {
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrolladora <em>fullstack</em>',
+          cargo: 'Desarrolladora <em>full stack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
@@ -289,7 +309,7 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Diana Lizeth Lozada Díaz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },

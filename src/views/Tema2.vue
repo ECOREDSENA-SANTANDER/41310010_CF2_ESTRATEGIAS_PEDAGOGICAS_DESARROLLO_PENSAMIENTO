@@ -300,7 +300,7 @@
                             | Paneles
                           li
                             i.fas.fa-check-circle
-                            | Debastes.
+                            | Debates.
                           li.mb-0
                             i.fas.fa-check-circle
                             | Seminarios.
@@ -368,7 +368,7 @@
                             i.fas.fa-check-circle
                             | Sistema de instrucción personalizada.
 
-              figcaption Fuente: Instituto Tecnológico y de Estudios Superiores de Monterrey (s.f.)  
+              figcaption Nota. Tomada de Instituto Tecnológico y de Estudios Superiores de Monterrey (s.f.) 
 
 </template>
 

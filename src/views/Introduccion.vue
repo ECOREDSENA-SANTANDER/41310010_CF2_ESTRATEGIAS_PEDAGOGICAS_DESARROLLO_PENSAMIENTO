@@ -9,10 +9,12 @@
           i.fas.fa-info
       h1 Introducción
     
+    p.mb-4 En el siguiente video, el aprendiz podrá acceder a un repaso general por las temáticas descritas en el componente formativo. 
+
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/u5L8FOLG8Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Técnicas y estrategias que facilitan el proceso de aprendizaje 
     
 </template>
 
