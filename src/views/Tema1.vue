@@ -34,7 +34,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1 Tipos de técnicas de formación
 
-    p.mb-4 En el siguiente video, el aprendiz podrá acceder a un repaso general por las temáticas descritas en el componente formativo. 
+    p.mb-4 Dentro de los tipos de técnicas de formación, se destacan los siguientes: 
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
       .col-md.tarjeta.color-primario.p-4.p-lg-5
