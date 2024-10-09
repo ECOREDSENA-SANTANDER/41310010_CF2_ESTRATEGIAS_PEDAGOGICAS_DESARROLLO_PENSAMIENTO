@@ -110,7 +110,7 @@
             span  Ejemplo diagrama de Venn
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig4.svg', alt=' La imagen es un diagrama de Venn que relaciona tres conceptos fundamentales: cuerpo, mente y espíritu. Cada uno está representado por un círculo, y en las áreas donde se superponen se incluyen términos asociados. La intersección entre cuerpo y espíritu se vincula con la autorrealización, mientras que entre mente y espíritu se asocia con un estilo de vida sano. En el punto donde convergen los tres conceptos, el pensamiento positivo es destacado como un elemento clave. El diagrama subraya la importancia de la interrelación entre estos tres aspectos para lograr un bienestar integral.')
-          figcaption Fuente: tomado de https://boardmix.com/es/examples/example-of-a-venn-diagram/  
+          figcaption Nota. Tomado de https://boardmix.com/es/examples/example-of-a-venn-diagram/  
       .row(titulo="Organizador cíclico")
         .col-lg-6
           p Es una herramienta cognitiva que facilita la organización y representación de información de manera clara y concisa, especialmente útil para visualizar procesos o secuencias que se repiten de forma continua. Este esquema mental se caracteriza por su capacidad para ilustrar ciclos recurrentes, en los cuales cada etapa del proceso lleva invariablemente de regreso al punto de partida. Al ser un método simplificado y directo, el organizador cíclico es ideal para describir fenómenos o eventos que siguen una secuencia fija, ayudando a los usuarios a comprender y retener información de manera eficiente. Su aplicación es común en la enseñanza de conceptos que involucran patrones repetitivos, como ciclos biológicos, procesos industriales o sistemas económicos, donde la representación visual del ciclo facilita el entendimiento de la continuidad y la repetición inherentes a estos procesos.
@@ -129,7 +129,7 @@
             span Uve heurística
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig6.svg', alt='La imagen presenta un esquema en forma de V que aborda el proceso de resolución de problemas, dividiéndolo en tres fases: pensar, pregunta central y hacer. En la fase de pensar, se plantea cómo estudiar el problema, qué teorías y conceptos son útiles para entenderlo. La pregunta central está enfocada en definir qué se desea averiguar o conocer. Finalmente, en la fase de hacer, se reflexiona sobre lo aprendido, se formulan juicios que explican el conocimiento obtenido y se organizan los pasos necesarios para comprender el problema en su totalidad.')
-          figcaption Fuente: tomado de https://www.educarchile.cl
+          figcaption Nota. Tomado de https://www.educarchile.cl/
 
     .row.align-items-center.tit-tercer1.mb-4(data-aos='fade-right')
       .col-md-auto.col-2
