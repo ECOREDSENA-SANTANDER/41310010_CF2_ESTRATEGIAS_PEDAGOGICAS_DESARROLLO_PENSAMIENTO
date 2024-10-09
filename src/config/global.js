@@ -123,25 +123,25 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Técnicas de formación',
+      tema: '1. Técnicas de formación.',
       referencia:
         'Ministerio de Educación Nacional. (2007). Aprendizajes para mejorar: Guía para la gestión de buenas prácticas (Guía 28).',
-      tipo: 'Guía del ministerio de educación',
+      tipo: 'Guía del ministerio de educación.',
       link:
         'http://www.mineducacion.gov.co/1621/articles-124660_archivo_pdf.pdf',
     },
     {
-      tema: '1. Técnicas de formación',
+      tema: '1. Técnicas de formación.',
       referencia:
         'Ministerio de Educación Nacional. (s.f.). Normograma: Ley 115 de 1994, Ley 1064 de 2006, Ley 1295 de 2009, Ley 1324 de 2009, Decreto 1860 de 1994 y Decreto 1075 de 2015.',
-      tipo: 'Leyes y decretos',
+      tipo: 'Leyes y decretos.',
       link: 'https://www.mineducacion.gov.co/portal/Normatividad/',
     },
     {
-      tema: '2. Estrategias educativas',
+      tema: '2. Estrategias educativas.',
       referencia:
         'Ministerio de Tecnologías de la Información y las Comunicaciones (MINTIC). (s.f.). Tecnologías de la información y las comunicaciones (TIC).',
-      tipo: 'Pagina Ministerio',
+      tipo: 'Página Ministerio.',
       link:
         'https://mintic.gov.co/portal/inicio/Glosario/T/5755:Tecnologias-de-la-Informacion-y-las-Comunicaciones-TIC#:~:text=Las%20Tecnolog%C3%ADas%20de%20la%20Informaci%C3%B3n,%2C%20video%20e%20im%C3%A1genes%20(Art.',
     },

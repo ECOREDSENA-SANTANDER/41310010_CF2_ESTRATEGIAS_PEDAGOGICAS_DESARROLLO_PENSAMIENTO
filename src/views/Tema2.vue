@@ -291,7 +291,7 @@
                             | Conferencia de un experto.
                           li
                             i.fas.fa-check-circle
-                            | Entrevistas
+                            | Entrevistas.
                           li
                             i.fas.fa-check-circle
                             | Visitas.
