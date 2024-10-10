@@ -107,7 +107,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/t2/slyder3.png', alt='')        
-        p.text-center Los estudiantes deben entender no solo por qué, dónde y cuándo aplicar las estrategias, sino también cómo transferirlas a diferentes contextos. Las estrategias deben ser claras, bien diseñadas y atractivas.      
+        p.text-center Los estudiantes deben entender no solo por qué, dónde y cuándo aplicar las estrategias, también cómo transferirlas a diferentes contextos. Las estrategias deben ser claras, bien diseñadas y atractivas.      
       .tarjeta.bg-3.p-4
         h4.text-center.mb-4.tit-tarjeta Comprensión de la utilidad
         .row.justify-content-center.mb-3
