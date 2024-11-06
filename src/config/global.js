@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Técnicas y estrategias de formación',
     descripcionCurso:
-      'Las técnicas de formación son fundamentales en la educación, utilizando estrategias específicas para guiar el aprendizaje. Las técnicas de formación se enfocan en métodos concretos, mientras que las estrategias educativas combinan diversas técnicas para lograr un aprendizaje eficaz y adaptado a los estudiantes. Ambos conceptos, contribuyen a desarrollar habilidades, conocimientos y actitudes, fomentando una educación integral y efectiva.',
+      'Las técnicas de formación son fundamentales en la educación, utilizando estrategias específicas para guiar el aprendizaje. Las técnicas de formación se enfocan en métodos concretos, mientras que las estrategias educativas combinan diversas técnicas para lograr un aprendizaje eficaz y adaptado a los estudiantes. Ambos conceptos contribuyen a desarrollar habilidades, conocimientos y actitudes, fomentando una educación integral y efectiva.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

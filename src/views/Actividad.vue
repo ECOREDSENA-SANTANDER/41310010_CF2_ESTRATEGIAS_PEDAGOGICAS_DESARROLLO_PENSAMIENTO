@@ -159,7 +159,7 @@ export default {
         {
           id: 10,
           texto:
-            'El pensamiento lateral está vinculado con la creatividad y la generación de nuevas ideas.',
+            'El aprendizaje basado en problemas solo fomenta el conocimiento teórico, sin promover habilidades prácticas.',
           imagen: require('@/assets/curso/temas/ad/2.png'),
           barajarRespuestas: false,
           opciones: [

@@ -67,15 +67,15 @@
           .col-lg-6
             p.mb-4 Los procedimientos son secuencias lógicas y organizadas de acciones que se siguen para lograr un fin específico dentro del proceso de enseñanza-aprendizaje. Los procedimientos pueden ser tanto algoritmos fijos (donde el resultado es predecible y seguro) como heurísticos (donde las acciones pueden variar y los resultados no son siempre predecibles).
             p #[b Tipos de Procedimientos:]
-            p Procedimientos algorítmicos: son aquellos en los que las acciones están claramente definidas y probadas, lo que asegura un resultado previsible y seguro.
-            p Procedimientos heurísticos: son aquellos que involucran un grado de variabilidad y no garantizan un resultado seguro, como la observación e intuición.
+            p #[b Procedimientos algorítmicos:] son aquellos en los que las acciones están claramente definidas y probadas, lo que asegura un resultado previsible y seguro.
+            p #[b Procedimientos heurísticos:] son aquellos que involucran un grado de variabilidad y no garantizan un resultado seguro, como la observación e intuición.
           .col-lg-4
             img(src='@/assets/curso/temas/t2/img4.png', alt='')
       .bg-2.p-4.py-md-5(titulo="Técnicas" :icono="require('@/assets/curso/temas/t2/tab3.svg')")
         .row.justify-content-center
           .col-lg-6
             p Las técnicas son herramientas o métodos específicos empleados para ejecutar los procedimientos y llevar a cabo los métodos. Las técnicas se refieren a las acciones concretas que el docente y los estudiantes realizan durante el proceso de enseñanza-aprendizaje. Son las prácticas que permiten implementar los métodos y procedimientos de manera efectiva en el aula.
-            p Ejemplos: Ejemplos de técnicas incluyen el uso de mapas conceptuales, discusiones en grupo, simulaciones, resolución de problemas, y trabajo en equipo.
+            p Ejemplos: técnicas que incluyen el uso de mapas conceptuales, discusiones en grupo, simulaciones, resolución de problemas, y trabajo en equipo.
           .col-lg-4
             img(src='@/assets/curso/temas/t2/img5.png', alt='')
     
@@ -297,7 +297,7 @@
                             | Visitas.
                           li
                             i.fas.fa-check-circle
-                            | Paneles
+                            | Paneles.
                           li
                             i.fas.fa-check-circle
                             | Debates.
