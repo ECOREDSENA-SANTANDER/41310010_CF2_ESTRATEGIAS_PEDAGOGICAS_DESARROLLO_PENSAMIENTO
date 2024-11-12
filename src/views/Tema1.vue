@@ -97,7 +97,7 @@
         .col-lg-6
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 3. 
-            span  Red o maraña casual
+            span Red o maraña casual
           figure
             img.mb-2(src='@/assets/curso/temas/t1/fig3.svg', alt='El diagrama representa un ejemplo de una red causal que describe los factores de riesgo que pueden conducir a un infarto de miocardio. Entre los factores se incluyen hereditarios, sociales y conductuales, como la presión social, el tabaquismo, el sedentarismo, el consumo excesivo de grasas, sal y calorías, la hipertensión y la obesidad. Además, se consideran afecciones como la arteriosclerosis coronaria, la diabetes y la hiperlipidemia, que junto con factores psicológicos como el estrés o la personalidad tipo A, aumentan la probabilidad de sufrir un infarto al generar oclusión coronaria, trombosis, y problemas circulatorios.')
       .row(titulo="Diagrama de Venn")

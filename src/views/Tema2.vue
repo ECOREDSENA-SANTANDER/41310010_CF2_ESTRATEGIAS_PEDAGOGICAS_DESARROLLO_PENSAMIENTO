@@ -249,13 +249,13 @@
             .col-lg-8
               .titulo-sexto.color-acento-contenido
                 h5 Tabla 1. 
-                span Ejemplos de estrategias técnicas
+                span Estrategias y técnicas
               .tabla-a.color-acento-contenido.mb-2
                 table(alt="La tabla presenta diferentes tipos de participación en el aprendizaje, junto con ejemplos de estrategias y técnicas aplicables en cada uno. Se destacan el autoaprendizaje, que incluye actividades individuales como el estudio guiado, exámenes, y ejercicios de reflexión. El aprendizaje interactivo se basa en actividades como tutorías, charlas y seminarios. El aprendizaje colaborativo se refiere a estrategias grupales como debates, juegos de roles y proyectos en equipo. Finalmente, se mencionan técnicas relacionadas con prácticas cortas y largas, con actividades como talleres, prácticas en laboratorios, simulaciones y la aplicación de módulos de práctica.")
                   thead
                     tr.bg-color-acento-contenido
                       th.text-start #[b Participación]
-                      th.text-start Ejemplos de estrategias y técnicas
+                      th.text-start Estrategias y técnicas
                   tbody
                     tr.bg-4
                       td #[b Autoaprendizaje]
