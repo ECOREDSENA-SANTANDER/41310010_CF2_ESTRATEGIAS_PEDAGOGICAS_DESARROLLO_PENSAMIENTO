@@ -143,15 +143,13 @@
       .col-lg-3.d-none.d-lg-block
         img(src='@/assets/curso/temas/t2/img2.png', alt='')
       .col-lg-9
-        p.mb-4 Las estrategias pedagógicas en la enseñanza-aprendizaje tienen como objetivo 
-          span.fw-bold  elevar el nivel académico de los estudiantes y potenciar sus competencias, adaptándolas al contexto y promoviendo su desarrollo como investigadores. 
+        p.mb-4 Las estrategias pedagógicas en la enseñanza-aprendizaje tienen como objetivo elevar el nivel académico de los estudiantes y potenciar sus competencias, adaptándolas al contexto y promoviendo su desarrollo como investigadores. 
           | Estas estrategias representan un nuevo paradigma educativo, en respuesta a una generación en constante cambio y a una revolución conceptual en el sistema educativo, cuyo propósito es proporcionar conocimientos cognitivos de manera integral.
         .cajon.color-primario.bg-1.p-4
           p.mb-0 En este contexto, las estrategias pedagógicas se implementan como herramientas esenciales para informar, retroalimentar, enseñar, orientar y estructurar el desarrollo cognitivo, afectivo y expresivo de los estudiantes, formando así individuos íntegros para la sociedad. Según Medina (2003), citado en Medina y Salvador (2009), las estrategias pedagógicas bajo un modelo alternativo promueven la integración y aceptación dentro del proceso educativo.
     
     p Este paradigma se enmarca en una visión reflexiva y colaborativa, que reconoce la diversidad sociopolítica y plurilingüe, y la necesidad de desarrollar valores emergentes. Se enfrenta a la incertidumbre y los retos que la educación intercultural implica, superando posibles marginaciones culturales y personales. Históricamente, el sistema educativo dirigía a los estudiantes con necesidades educativas especiales a instituciones separadas. Sin embargo, 
-      span.fw-bold el enfoque actual promueve la integración, ofreciendo oportunidades a todos los estudiantes, 
-      | quienes deben adaptarse al sistema educativo vigente.
+      span el enfoque actual promueve la integración, ofreciendo oportunidades a todos los estudiantes, quienes deben adaptarse al sistema educativo vigente.
     
 
     Separador
